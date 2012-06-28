@@ -7,7 +7,7 @@
 			"*://search.mywot.com/"
 		],
 		"launch": {
-			"web_url": "https://search.mywot.com/?utm_source=capp"
+			"web_url": "https://search.mywot.com/"
 		}
 	},
 	"icons": {
