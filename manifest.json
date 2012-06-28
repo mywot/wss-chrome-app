@@ -1,0 +1,16 @@
+{
+	"name": "Safe Search from WOT",
+	"description": "WOT Safe Search bla-bla-bla here",
+	"version": "1",
+	"app": {
+		"urls": [
+			"*://search.mywot.com/"
+		],
+		"launch": {
+			"web_url": "https://search.mywot.com/?utm_source=capp"
+		}
+	},
+	"icons": {
+		"128": "128.png"
+	}
+}
