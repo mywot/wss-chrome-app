@@ -1,7 +1,7 @@
 {
 	"name": "WOT Safe Search",
-	"description": "WOT Safe Search protects you from bad sites",
-	"version": "1",
+	"description": "Are you sure you can trust that link? With WOT Safe Search you can search the web freely without worrying about untrustworthy links.",
+	"version": "2",
 	"manifest_version": 2,
 	"app": {
 		"urls": [
